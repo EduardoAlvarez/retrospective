@@ -1,0 +1,30 @@
+.content{
+	width: 35%;
+	margin:0px auto;
+}
+.content fieldset{
+	border: 1px solid gray;
+	border-radius: 5px;
+	padding: 13px;
+
+}
+.content textarea{
+	height: 100px;
+	padding:6px;
+}
+.content input{
+	margin-top:15px;
+	
+}
+.content input[type='button']{
+	width:100%;
+}
+.content input[type='text']{
+	width:92%;	
+}
+.content textarea{
+	width:97%;	
+}
+.content fieldset legend{
+	border:none;
+}

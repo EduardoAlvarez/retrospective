@@ -1,0 +1,71 @@
+body{
+	background:white;
+	font-family : Verdana, "Bitstream Vera Sans", "DejaVu Sans", Tahoma, Geneva, Arial, Sans-serif;
+	transition: background-color 1s ease;
+}
+.clear{
+	clear:both;
+}
+.heart{
+	width:500px;
+	z-index: 1;
+}
+
+.edu{
+	float:left;
+	z-index: 2;
+}
+.paty{
+	float:right;
+	z-index: 3;
+}
+.drag{
+	cursor: pointer;
+}
+.data{
+	font-weight:bold;
+	color:gray;
+}
+.hider p{
+	border:1px solid gray;
+	width: 35%;
+	margin:0px auto;
+	background:white;
+	border-radius: 5px;
+	margin-bottom: 10px;
+	padding:16px;
+}
+.hider{
+	display:none;
+	text-align: center;
+	
+	color:black;
+}
+.center{
+	text-align: center;
+}
+.hide{
+		display:none;
+}
+.sp img{
+	width:160px;
+}
+.movie img{
+	width:160px;
+}
+
+.lightblue{
+	background-color:lightblue;
+}
+.lightred{
+	background-color:red;
+}
+.pink{
+	background-color:pink;
+}
+.white{
+	background-color:white;
+}
+audio{
+	display: none;
+}
